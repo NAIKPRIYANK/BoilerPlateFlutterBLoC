@@ -1,4 +1,4 @@
-# flutterboilerplateblocpattern
+# flutter boilerplate bloc pattern
 
 A new Flutter project.
 
